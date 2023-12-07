@@ -1,2 +1,1 @@
-# hello-world
-Realização da atividade MAPA - módulo 54/2023 - Tóp. Esp. Eng. Soft II
+Novas alterações neste branch, conforme instruções no slides da atividade MAPA.
